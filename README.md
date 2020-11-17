@@ -1,10 +1,11 @@
-# connectedge2
+# ConnectEdge
 
-A new Flutter application.
+A Flutter based chat application.
 
-## Getting Started
+## Team Members
 
-This project is a starting point for a Flutter application.
+
+This proje ct is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
