@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282409299397",
+    "firebase_url": "https://connectedge-9c497.firebaseio.com",
+    "project_id": "connectedge-9c497",
+    "storage_bucket": "connectedge-9c497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282409299397:android:092e90732fbe20d180efac",
+        "android_client_info": {
+          "package_name": "com.example.connectedge2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282409299397-jpj7mnabppc8a54a4dr68sdtpob1f7cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOs1PgLFY4AjSo-sNGNElbkHXKuyjYLkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282409299397-jpj7mnabppc8a54a4dr68sdtpob1f7cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
